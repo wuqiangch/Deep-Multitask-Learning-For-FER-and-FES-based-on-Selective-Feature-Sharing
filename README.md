@@ -20,5 +20,5 @@ We consider the first baseline model, denoted as Baseline, as the network withou
 
 ### Facial expression synthesis
 <center class="half">
-    <img src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3a.png?raw=true" width="400"/><img src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3b.png?raw=true" width="400"/>
+    <img src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3a.png?raw=true" width="300"/><img src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3b.png?raw=true" width="300"/>
 </center>
