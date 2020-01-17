@@ -14,4 +14,5 @@ The proposed Convolutional Feature Leaky Unit:
 
 ## Results
 ### Facial expression recognition on CK+ and Oulu-CASIA
+![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/table1.png?raw=true)
 
