@@ -19,6 +19,6 @@ We consider the first baseline model, denoted as Baseline, as the network withou
 ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/table1.png?raw=true)
 
 ### Facial expression synthesis
-<center class="half">
-    <img src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3a.png?raw=true" width="300"/><img src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3b.png?raw=true" width="300"/>
-</center>
+CK+             |  Oulu-CASIA
+:-------------------------:|:-------------------------:
+![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3a.png?raw=true)  |  ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3b.png?raw=true)
