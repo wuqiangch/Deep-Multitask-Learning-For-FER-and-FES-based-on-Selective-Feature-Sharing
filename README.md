@@ -13,14 +13,9 @@ The proposed Convolutional Feature Leaky Unit:
 <div align=left><img width="400" src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig2.png?raw=true"/></div>
 
 ## Results
-### Facial expression recognition on CK+ and Oulu-CASIA
-We consider the first baseline model, denoted as Baseline, as the network without the bottom branch for FES. Thus, this baseline model is a single-task network. We further consider the second baseline model, denoted as Baseline*, as the hard parameter-sharing multi-task model, in which the first five convolutional blocks share the parameters for FER and FES, without ConvFLUs. In addition, we employ the FES branch to enlarge and balance the training dataset. We fine-tune the pre-trained FERSNet with 21K synthetic facial images from the FES branch to further enhance its generalization ability. The fine-tuned model is denoted as FERSNet* in the table.
+### Facial expression recognition on CK+, Oulu-CASIA, and MMI
 
-![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/table1.png?raw=true)
 
 ### Facial expression synthesis
-CK+             |  Oulu-CASIA
-:-------------------------:|:-------------------------:
-![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3a.png?raw=true)  |  ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig3b.png?raw=true)
 
 ## Citation
