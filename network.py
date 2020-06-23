@@ -110,8 +110,8 @@ class Discriminator(nn.Module):
 class FETRNet(nn.Module):
     def __init__(self, vgg_name='VGG13', num_class=7, mem_size=512, kernel_size=3, k_channel=1):
         super(FETRNet, self).__init__()
-        self.leakyunitxy = LeakyUnit(n_features=128)
-        self.leakyunityx = LeakyUnit(n_features=128)
+        self.leakyunitxy = LeakyUnit(n_features=256)
+        self.leakyunityx = LeakyUnit(n_features=256)
         self.in_c = nn.Sequential(
             nn.Conv2d(k_channel, 256, 3, 1, 1),
             nn.BatchNorm2d(256),
