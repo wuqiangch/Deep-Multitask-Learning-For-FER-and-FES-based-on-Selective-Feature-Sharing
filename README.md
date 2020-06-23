@@ -19,7 +19,6 @@ The proposed Convolutional Feature Leaky Unit (ConFLU):
 ### Facial expression synthesis
 
 ## Citation
-## Citation
 
     @INPROCEEDINGS{Zhao2020, 
         author={R. {Zhao} and T. S. {Liu} and J. {Xiao} and D. P. K. {Lun}} and K. {Lam}, 
