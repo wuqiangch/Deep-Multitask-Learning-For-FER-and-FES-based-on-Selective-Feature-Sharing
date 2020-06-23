@@ -107,9 +107,9 @@ class Discriminator(nn.Module):
         return self.model(img)
 
 
-class FETRNet(nn.Module):
+class FERSNet(nn.Module):
     def __init__(self, vgg_name='VGG13', num_class=7, mem_size=512, kernel_size=3, k_channel=1):
-        super(FETRNet, self).__init__()
+        super(FERSNet, self).__init__()
         self.leakyunitxy = LeakyUnit(n_features=256)
         self.leakyunityx = LeakyUnit(n_features=256)
         self.in_c = nn.Sequential(
