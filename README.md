@@ -19,3 +19,11 @@ The proposed Convolutional Feature Leaky Unit (ConFLU):
 ### Facial expression synthesis
 
 ## Citation
+## Citation
+
+    @INPROCEEDINGS{Zhao2020, 
+        author={R. {Zhao} and K. {Lam} and D. P. K. {Lun}}, 
+        booktitle={International Conference on Pattern Recognition (ICPR)}, 
+        title={Deep Multi-task Learning For Facial Expression Recognition and Synthesis based on Selective Feature Sharing}, 
+        year={2020}, 
+}
