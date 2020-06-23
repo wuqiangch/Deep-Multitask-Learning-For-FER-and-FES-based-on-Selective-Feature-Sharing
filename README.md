@@ -33,5 +33,4 @@ CK+                        |  Oulu-CASIA
         author={R. {Zhao} and T. S. {Liu} and J. {Xiao} and D. P. K. {Lun}} and K. {Lam}, 
         booktitle={International Conference on Pattern Recognition (ICPR)}, 
         title={Deep Multi-task Learning For Facial Expression Recognition and Synthesis based on Selective Feature Sharing}, 
-        year={2020}, 
-}
+        year={2020}}
