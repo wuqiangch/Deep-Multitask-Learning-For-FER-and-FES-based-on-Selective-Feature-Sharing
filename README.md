@@ -15,8 +15,10 @@ Python >= 3.6.5, PyTorch >= 0.4.1, and cuda-9.2.
 ## Network architecture
 The proposed multi-task network:
 ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig1.png?raw=true)
-The proposed Convolutional Feature Leaky Unit (ConFLU):
-<div align=left><img width="400" src="https://github.com/RickZ1010/Deep-Multitask-Learning-For-Facial-Expression-Analysis-FER-plus-FES/blob/master/figs/fig2.png?raw=true"/></div>
+The proposed Convolutional Feature Leaky Unit (ConvFLU):
+Structure                  | Procedure
+:-------------------------:|:-------------------------:
+![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-FER-and-FES-based-on-Selective-Feature-Sharing/blob/master/figs/fig2.png)  |  ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-FER-and-FES-based-on-Selective-Feature-Sharing/blob/master/figs/ConvFLU_eqs.png)
 
 ## Results
 ### Facial expression recognition on CK+, Oulu-CASIA, and MMI
