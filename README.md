@@ -22,7 +22,7 @@ The proposed Convolutional Feature Leaky Unit (ConFLU):
 ## Citation
 
     @INPROCEEDINGS{Zhao2020, 
-        author={R. {Zhao} and K. {Lam} and D. P. K. {Lun}}, 
+        author={R. {Zhao} and T. S. {Liu} and J. {Xiao} and D. P. K. {Lun}} and K. {Lam}, 
         booktitle={International Conference on Pattern Recognition (ICPR)}, 
         title={Deep Multi-task Learning For Facial Expression Recognition and Synthesis based on Selective Feature Sharing}, 
         year={2020}, 
