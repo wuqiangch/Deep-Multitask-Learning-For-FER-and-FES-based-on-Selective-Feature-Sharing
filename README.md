@@ -1,7 +1,12 @@
 # [Deep-Multitask-Learning-for-FER-and-FES-based-on-Selective-Feature-Sharing](https://github.com/RickZ1010/Multitask-Learning-in-Facial-Expression-Analysis-FET-plus-FER)
 
 ## Intordction
-This is the implementation of the paper, "DEEP MULTI-TASK LEARNING FOR FACIAL EXPRESSION RECOGNITION AND SYNTHESIS BASE ON SELECTIVE FEATURE SHARING". We propose a novel selective feature-sharing strategy, and establish a multi-task network for facial expression recognition and facial expression synthesis (FERSNet). The proposed method can effectively transfer beneficial features between different tasks, while filtering out useless and harmful information.
+This is the implementation of the following paper:
+
+DEEP MULTI-TASK LEARNING FOR FACIAL EXPRESSION RECOGNITION AND SYNTHESIS BASE ON SELECTIVE FEATURE SHARING
+Rui Zhao, Tianshan Liu, Jun Xiao, Daniel P.K. Lun, and Kin-Man Lam
+
+We propose a novel selective feature-sharing strategy, and establish a multi-task network for facial expression recognition and facial expression synthesis (FERSNet). The proposed method can effectively transfer beneficial features between different tasks, while filtering out useless and harmful information.
 
 ## Depandencies
 Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
