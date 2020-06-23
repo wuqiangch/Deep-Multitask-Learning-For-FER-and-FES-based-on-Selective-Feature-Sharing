@@ -16,7 +16,7 @@ The proposed Convolutional Feature Leaky Unit (ConFLU):
 ### Facial expression recognition on CK+, Oulu-CASIA, and MMI
 
 
-### Facial expression synthesis
+### Facial expression synthesis on CK+ and Oulu-CASIA
 
 ## Citation
 
