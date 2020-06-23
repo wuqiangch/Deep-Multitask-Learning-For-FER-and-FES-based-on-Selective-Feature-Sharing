@@ -3,8 +3,9 @@
 ## Intordction
 This is the implementation of the following paper:
 
-DEEP MULTI-TASK LEARNING FOR FACIAL EXPRESSION RECOGNITION AND SYNTHESIS BASE ON SELECTIVE FEATURE SHARING
-Rui Zhao, Tianshan Liu, Jun Xiao, Daniel P.K. Lun, and Kin-Man Lam
+**DEEP MULTI-TASK LEARNING FOR FACIAL EXPRESSION RECOGNITION AND SYNTHESIS BASE ON SELECTIVE FEATURE SHARING**
+
+*Rui Zhao, Tianshan Liu, Jun Xiao, Daniel P.K. Lun, and Kin-Man Lam*
 
 We propose a novel selective feature-sharing strategy, and establish a multi-task network for facial expression recognition and facial expression synthesis (FERSNet). The proposed method can effectively transfer beneficial features between different tasks, while filtering out useless and harmful information.
 
