@@ -22,7 +22,7 @@ The proposed Convolutional Feature Leaky Unit (ConFLU):
 ### Facial expression recognition on CK+, Oulu-CASIA, and MMI
 CK+                        |  Oulu-CASIA               | MMI
 :-------------------------:|:-------------------------:|:-------------------------:
-
+![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-FER-and-FES-based-on-Selective-Feature-Sharing/blob/master/figs/table1.png)  |  ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-FER-and-FES-based-on-Selective-Feature-Sharing/blob/master/figs/table2.png)|  ![](https://github.com/RickZ1010/Deep-Multitask-Learning-For-FER-and-FES-based-on-Selective-Feature-Sharing/blob/master/figs/table3.png)
 
 ### Facial expression synthesis on CK+ and Oulu-CASIA
 CK+                        |  Oulu-CASIA
